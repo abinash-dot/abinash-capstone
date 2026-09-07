@@ -1,0 +1,6 @@
+{
+  "name": "ECL-Pro: Ind AS 109 Working Paper",
+  "description": "Expected Credit Loss (ECL) calculation and audit working paper generator for Trade Receivables under Ind AS 109 Simplified Approach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
